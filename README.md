@@ -54,6 +54,6 @@ This project establishes a comprehensive system for managing retail data, demons
 
 ## Appendices
 
-- **ERD**: [View ERD Diagram](./ERR%Diagram%of%Final%Project.png) 
-- **SQL Script**: [https://github.com/danartech/Retail-Data-Management-System/blob/main/Final%20Project.sql)
+- **ERD**: [View ERD Diagram](https://github.com/danartech/Retail-Data-Management-System/blob/main/ERR%20Diagram%20of%20Final%20Project.png) 
+- **SQL Script**: [Final Project SQL Script](https://github.com/danartech/Retail-Data-Management-System/blob/main/Final%20Project.sql)
 - **Data Files**: [Customers](./customer_purchases.csv) | [Products](./products.csv) | [Employees](./employees.csv) | [Customer Purchases](./customer_purchases.csv)
